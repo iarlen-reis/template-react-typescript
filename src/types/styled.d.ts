@@ -1,6 +1,7 @@
 import 'styled-components'
 
 declare module 'styled-components' {
+    // eslint-disable-next-line prettier/prettier
     export interface DefaultTheme {
         colors: {
             primary: string,

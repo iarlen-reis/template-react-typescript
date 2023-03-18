@@ -1,5 +1,5 @@
-import React from 'react'
-import { AboutContainerStyled } from './styles'
+import React from "react";
+import { AboutContainerStyled } from "./styles";
 
 function About() {
   return (
@@ -7,7 +7,7 @@ function About() {
       <h1>Página About</h1>
       <p>Eu sou a página de about</p>
     </AboutContainerStyled>
-  )
+  );
 }
 
-export default About
+export default About;
